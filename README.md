@@ -81,6 +81,8 @@ https://www.figma.com/proto/7ax4XD2rl2tCJ1rXzvgtbX/pillgnal-prototype-ver.1?node
 * 프론트엔드 UI 개발 진행
 * 백엔드 DB설계 및 API개발 진행
 
+* 리액트 네이티드로 개선 예정
+
 #### 기능구현
 > OCR로 약 구분 표시(약에 적힌 글씨 ) 추출 가능
 
